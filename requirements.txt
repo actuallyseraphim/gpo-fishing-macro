@@ -1,0 +1,7 @@
+evdev==1.9.2
+mss==10.1.0
+numpy==2.2.6
+opencv-python==4.12.0.88
+pynput==1.8.1
+python-xlib==0.33
+six==1.17.0
